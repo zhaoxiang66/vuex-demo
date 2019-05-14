@@ -1,7 +1,7 @@
 {
-  "name": "share",
+  "name": "vuex-demo",
   "version": "1.0.0",
-  "description": "this is a share project",
+  "description": "this is a vuex-demo project",
   "author": "zhaoxiang <1142446725@qq.com>",
   "private": true,
   "scripts": {
