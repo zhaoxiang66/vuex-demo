@@ -1,4 +1,4 @@
-# share
+# vuex-demo
 
 > this is a share project
 
