@@ -1,0 +1,19 @@
+.catalog{
+    h1{
+        height:60px;
+        line-height: 60px;
+        padding:10px;
+        padding-bottom:30px;
+        border-bottom:1px solid #ddd;
+        span{
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-bottom:20px;
+        }
+        .active{
+            background: #6FAAFF;
+            color:#fff;
+        }
+    }
+}
